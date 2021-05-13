@@ -1,0 +1,17 @@
+---
+game_types:
+  - ice
+game_lengths:
+  - medium
+group_sizes:
+  - small
+  - large
+exhausting: True
+touching: False
+scalable: False
+digital: False
+---
+# Name Tag
+
+## Description
+Four or more balls of any size are needed for this game. Before starting the game the group is divided into two teams. At first, each team control half of the balls. The aim of each team is to control all balls. When it happens the game ends.\n\nRules of the game:\n1. Ball can be taken away from the other team by touching the person controlling it and calling his name\n2. Ball can be passed to other teammates by calling his or her name and throwing the ball to that person\n3. Person controlling a ball is allowed three steps with the ball in hands\n4. A player is not allowed to steal a ball thats just been stolen from him\n5. Ball cannot be intercepted in mid air\n\nIts advisable to have some kind of recognition for one of teams, e.g., blindfolds tied around their hands.

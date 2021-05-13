@@ -1,0 +1,19 @@
+---
+game_types:
+  - ice
+  - name
+  - gtk
+game_lengths:
+  - short
+group_sizes:
+  - small
+  - large
+exhausting: False
+touching: False
+scalable: False
+digital: False
+---
+# Quack
+
+## Description
+This game is played in the same formation as jamaquacks. The group forms a\ncircle and about six players are chosen to go into the middle of the circle, where they bend over and grab their ankles, and walk around backwards. If they bump another player then they must introduce themselves by sticking their head between their legs and shaking the other player's hand.
