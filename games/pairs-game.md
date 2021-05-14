@@ -10,8 +10,8 @@ group_sizes:
   - multiple
   - event
 materials:
-  - Paper
-prior_prep: Each person's name written on a piece of paper and folded. All pieces of paper in a container
+  - "Paper"
+prior_prep: "Each person's name written on a piece of paper and folded. All pieces of paper in a container"
 exhausting: False
 touching: False
 scalable: False

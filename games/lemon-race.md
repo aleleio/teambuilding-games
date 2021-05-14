@@ -8,8 +8,8 @@ group_sizes:
   - small
   - large
 materials:
-  - Lemons
-  - pencils
+  - "Lemons"
+  - "pencils"
 exhausting: False
 touching: False
 scalable: False

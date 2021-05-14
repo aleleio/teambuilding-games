@@ -14,7 +14,7 @@ group_needs:
   - slug: hon
     score: 2
 materials:
-  - A written out version of the story
+  - "A written out version of the story"
 exhausting: False
 touching: False
 scalable: False

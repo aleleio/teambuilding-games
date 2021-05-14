@@ -14,7 +14,7 @@ group_needs:
   - slug: ener
     score: 2
 materials:
-  - Chairs
+  - "Chairs"
 exhausting: False
 touching: False
 scalable: False

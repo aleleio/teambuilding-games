@@ -9,7 +9,7 @@ group_sizes:
   - large
   - multiple
 materials:
-  - Large Coin
+  - "Large Coin"
 exhausting: False
 touching: False
 scalable: False

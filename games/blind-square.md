@@ -13,7 +13,7 @@ group_needs:
     score: 4
   - slug: id
     score: 1
-prior_prep: yes
+prior_prep: "yes"
 exhausting: False
 touching: False
 scalable: False

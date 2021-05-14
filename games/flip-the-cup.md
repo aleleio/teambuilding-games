@@ -8,8 +8,8 @@ group_sizes:
   - small
   - large
 materials:
-  - cups
-  - water
+  - "cups"
+  - "water"
 exhausting: False
 touching: False
 scalable: False

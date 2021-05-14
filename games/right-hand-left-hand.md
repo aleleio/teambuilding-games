@@ -7,11 +7,11 @@ group_sizes:
   - small
   - large
 materials:
-  - Pens
-  - A4 Paper (White)
-  - Large flipchart/Whiteboard/stuck-together A4 paper
-  - Marker
-prior_prep: Write the alphabet with the prementioned L/R/B underneath each letter (nice and big so everyone can see)
+  - "Pens"
+  - "A4 Paper (White)"
+  - "Large flipchart/Whiteboard/stuck-together A4 paper"
+  - "Marker"
+prior_prep: "Write the alphabet with the prementioned L/R/B underneath each letter (nice and big so everyone can see)"
 exhausting: False
 touching: False
 scalable: False

@@ -15,8 +15,8 @@ group_needs:
   - slug: names
     score: 2
 materials:
-  - ball
-  - bean bag
+  - "ball"
+  - "bean bag"
 exhausting: False
 touching: False
 scalable: False

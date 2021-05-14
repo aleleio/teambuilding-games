@@ -7,8 +7,8 @@ group_sizes:
   - large
   - multiple
 materials:
-  - Anything you can find, from trash to chairs to food. Anything something can be build of.
-prior_prep: yes
+  - "Anything you can find, from trash to chairs to food. Anything something can be build of."
+prior_prep: "yes"
 exhausting: False
 touching: False
 scalable: False

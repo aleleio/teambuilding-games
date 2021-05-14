@@ -14,11 +14,11 @@ group_needs:
   - slug: hon
     score: 1
 materials:
-  - Pens
-  - Paper
-  - markers
-  - A4 Paper (Colour)
-  - Post-Its
+  - "Pens"
+  - "Paper"
+  - "markers"
+  - "A4 Paper (Colour)"
+  - "Post-Its"
 exhausting: False
 touching: False
 scalable: False

@@ -11,8 +11,8 @@ group_sizes:
   - large
   - multiple
 materials:
-  - Bag with assorted objects
-  - Bag (1 per team)
+  - "Bag with assorted objects"
+  - "Bag (1 per team)"
 exhausting: False
 touching: False
 scalable: False

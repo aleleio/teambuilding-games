@@ -8,7 +8,7 @@ group_sizes:
   - small
   - large
   - multiple
-prior_prep: The game area should be clearly delimited and wide enough to let people run safely.
+prior_prep: "The game area should be clearly delimited and wide enough to let people run safely."
 exhausting: True
 touching: False
 scalable: False

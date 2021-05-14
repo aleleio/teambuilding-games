@@ -8,7 +8,7 @@ group_sizes:
   - small
   - large
   - multiple
-prior_prep: yes
+prior_prep: "yes"
 exhausting: True
 touching: False
 scalable: False

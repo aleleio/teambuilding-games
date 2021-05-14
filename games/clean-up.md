@@ -8,8 +8,8 @@ group_sizes:
   - small
   - large
 materials:
-  - Stuff lying around, the more the merrier
-prior_prep: If this is not done at the end of committee work, clearly delimitate the area that needs to be cleaned up. You may also add more/remove mess according to what version you are playing and how complex you wish to make the game.
+  - "Stuff lying around, the more the merrier"
+prior_prep: "If this is not done at the end of committee work, clearly delimitate the area that needs to be cleaned up. You may also add more/remove mess according to what version you are playing and how complex you wish to make the game."
 exhausting: False
 touching: False
 scalable: False

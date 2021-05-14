@@ -7,8 +7,8 @@ group_sizes:
   - small
   - large
 materials:
-  - Balls
-  - 4-6 tennis balls
+  - "Balls"
+  - "4-6 tennis balls"
 exhausting: False
 touching: False
 scalable: False

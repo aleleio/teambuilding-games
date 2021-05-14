@@ -14,8 +14,8 @@ group_needs:
   - slug: names
     score: 1
 materials:
-  - Cloth
-  - blindfold
+  - "Cloth"
+  - "blindfold"
 exhausting: True
 touching: True
 scalable: True

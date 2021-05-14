@@ -7,7 +7,7 @@ group_sizes:
   - small
   - large
 materials:
-  - M&Mm's
+  - "M&Mm's"
 exhausting: False
 touching: False
 scalable: False

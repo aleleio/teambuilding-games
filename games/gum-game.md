@@ -7,8 +7,8 @@ group_sizes:
   - small
   - large
 materials:
-  - Chewing gum
-  - gloves - the thicker the better
+  - "Chewing gum"
+  - "gloves - the thicker the better"
 exhausting: False
 touching: False
 scalable: False

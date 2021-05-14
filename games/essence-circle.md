@@ -9,9 +9,9 @@ group_sizes:
   - large
   - multiple
 materials:
-  - A4 Paper (White)
-  - Container
-prior_prep: Each person's name written on a piece of paper and folded\nAll pieces of paper in a container
+  - "A4 Paper (White)"
+  - "Container"
+prior_prep: "Each person's name written on a piece of paper and folded\nAll pieces of paper in a container"
 exhausting: False
 touching: False
 scalable: False

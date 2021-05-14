@@ -8,8 +8,8 @@ group_sizes:
   - small
   - large
 materials:
-  - Pens
-  - A4 Paper (White)
+  - "Pens"
+  - "A4 Paper (White)"
 exhausting: False
 touching: False
 scalable: False

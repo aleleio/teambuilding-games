@@ -11,7 +11,7 @@ group_needs:
   - slug: names
     score: 5
 materials:
-  - ball
+  - "ball"
 exhausting: False
 touching: False
 scalable: False

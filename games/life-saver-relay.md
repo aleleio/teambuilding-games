@@ -9,8 +9,8 @@ group_sizes:
   - small
   - large
 materials:
-  - polos/lifesaver
-  - a circular mint/sweet with a hole in the middle
+  - "polos/lifesaver"
+  - "a circular mint/sweet with a hole in the middle"
 exhausting: False
 touching: False
 scalable: False

@@ -7,10 +7,10 @@ group_sizes:
   - small
   - large
 materials:
-  - Various objects from nature
-  - T-Shirt
-  - Blanket
-prior_prep: You need some leaves, stones or little sticks which are placed on a blanket or t-shirt and covered with a second blanket (or t- shirt).
+  - "Various objects from nature"
+  - "T-Shirt"
+  - "Blanket"
+prior_prep: "You need some leaves, stones or little sticks which are placed on a blanket or t-shirt and covered with a second blanket (or t- shirt)."
 exhausting: False
 touching: False
 scalable: False

@@ -8,8 +8,8 @@ group_sizes:
   - small
   - large
 materials:
-  - Puzzle
-  - Children's Puzzle (few pieces)
+  - "Puzzle"
+  - "Children's Puzzle (few pieces)"
 exhausting: False
 touching: False
 scalable: False

@@ -9,7 +9,7 @@ group_sizes:
   - large
   - multiple
 materials:
-  - 20 objects
+  - "20 objects"
 exhausting: False
 touching: False
 scalable: False

@@ -7,7 +7,7 @@ group_sizes:
   - small
   - large
 materials:
-  - Balloons
+  - "Balloons"
 exhausting: False
 touching: False
 scalable: False

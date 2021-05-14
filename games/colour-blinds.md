@@ -8,8 +8,8 @@ group_sizes:
   - small
   - large
 materials:
-  - coloured markers
-  - Flipchart
+  - "coloured markers"
+  - "Flipchart"
 exhausting: False
 touching: False
 scalable: False

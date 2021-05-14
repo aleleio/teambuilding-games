@@ -8,10 +8,10 @@ game_lengths:
 group_sizes:
   - large
 materials:
-  - Pens
-  - A4 Paper (White)
-  - Human Bingo sheets - prepared in advance
-prior_prep: yes
+  - "Pens"
+  - "A4 Paper (White)"
+  - "Human Bingo sheets - prepared in advance"
+prior_prep: "yes"
 exhausting: False
 touching: False
 scalable: False

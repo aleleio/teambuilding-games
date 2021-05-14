@@ -14,8 +14,8 @@ group_needs:
   - slug: insp
     score: 4
 materials:
-  - Cards with letters of the alphabet on one side and letters from a quote on the other
-prior_prep: yes
+  - "Cards with letters of the alphabet on one side and letters from a quote on the other"
+prior_prep: "yes"
 exhausting: False
 touching: False
 scalable: False

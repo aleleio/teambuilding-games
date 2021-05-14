@@ -10,7 +10,7 @@ group_sizes:
   - small
   - large
 materials:
-  - Rope
+  - "Rope"
 exhausting: True
 touching: False
 scalable: False

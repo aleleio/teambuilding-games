@@ -14,8 +14,8 @@ group_needs:
   - slug: id
     score: 1
 materials:
-  - Balls
-prior_prep: yes
+  - "Balls"
+prior_prep: "yes"
 exhausting: True
 touching: True
 scalable: False

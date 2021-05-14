@@ -14,8 +14,8 @@ group_needs:
   - slug: hon
     score: 3
 materials:
-  - Use 8 different, random objects, you need four of each object
-prior_prep: yes
+  - "Use 8 different, random objects, you need four of each object"
+prior_prep: "yes"
 exhausting: False
 touching: False
 scalable: False

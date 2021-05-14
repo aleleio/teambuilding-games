@@ -12,7 +12,7 @@ group_needs:
   - slug: ener
     score: 3
 materials:
-  - Beans (or equivalent)
+  - "Beans (or equivalent)"
 exhausting: True
 touching: False
 scalable: False

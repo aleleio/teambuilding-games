@@ -8,7 +8,7 @@ group_sizes:
   - small
   - large
 materials:
-  - Cards with title of a song (the amount of times one song is mentioned depends on how big you want the subgroups to be)
+  - "Cards with title of a song (the amount of times one song is mentioned depends on how big you want the subgroups to be)"
 exhausting: False
 touching: False
 scalable: False

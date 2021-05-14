@@ -7,7 +7,7 @@ group_sizes:
   - small
   - large
 materials:
-  - small object
+  - "small object"
 exhausting: False
 touching: False
 scalable: False

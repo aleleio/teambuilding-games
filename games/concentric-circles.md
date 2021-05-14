@@ -17,7 +17,7 @@ group_needs:
     score: 2
   - slug: id
     score: 1
-prior_prep: Can I have us divide into two equal-sized groups!\nGroup one, please form a circle, facing outward. Group two, each person find a partner from group one and look deep in their eyes! One partner per person! \n\nNow, you have a minute or so to have a short conversation (about...), and when I say 'Switch' the group in the middle will move clockwise to the next partner from the outside group. \n\nUnderstood? (time for questions)\n\nGood! Let's go! ;)
+prior_prep: "Can I have us divide into two equal-sized groups!\nGroup one, please form a circle, facing outward. Group two, each person find a partner from group one and look deep in their eyes! One partner per person! \n\nNow, you have a minute or so to have a short conversation (about...), and when I say 'Switch' the group in the middle will move clockwise to the next partner from the outside group. \n\nUnderstood? (time for questions)\n\nGood! Let's go! ;)"
 exhausting: False
 touching: False
 scalable: False

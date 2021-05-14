@@ -8,7 +8,7 @@ group_sizes:
   - small
   - large
 materials:
-  - A key, or something else that can function instead of the key.
+  - "A key, or something else that can function instead of the key."
 exhausting: False
 touching: False
 scalable: False

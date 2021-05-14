@@ -10,7 +10,7 @@ group_sizes:
   - large
   - multiple
 materials:
-  - Balloons, just balloons!
+  - "Balloons, just balloons!"
 exhausting: True
 touching: False
 scalable: False

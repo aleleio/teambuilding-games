@@ -6,7 +6,7 @@ game_lengths:
 group_sizes:
   - small
   - large
-prior_prep: Write the two papers with instructions beforehand.
+prior_prep: "Write the two papers with instructions beforehand."
 exhausting: False
 touching: False
 scalable: False

@@ -7,9 +7,9 @@ group_sizes:
   - small
   - large
 materials:
-  - Pens
-  - A4 Paper (White)
-  - Sheet of paper with items written down
+  - "Pens"
+  - "A4 Paper (White)"
+  - "Sheet of paper with items written down"
 exhausting: False
 touching: False
 scalable: False

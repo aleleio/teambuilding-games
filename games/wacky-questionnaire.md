@@ -7,8 +7,8 @@ group_sizes:
   - small
   - large
 materials:
-  - Pens
-  - Questionnaire with random questions, one copy for each participant.
+  - "Pens"
+  - "Questionnaire with random questions, one copy for each participant."
 exhausting: False
 touching: False
 scalable: False

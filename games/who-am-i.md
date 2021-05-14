@@ -11,11 +11,11 @@ group_needs:
   - slug: names
     score: 3
 materials:
-  - A4 Paper
-  - Pens
-  - Paper
-  - markers
-  - scotch tape
+  - "A4 Paper"
+  - "Pens"
+  - "Paper"
+  - "markers"
+  - "scotch tape"
 exhausting: False
 touching: False
 scalable: False

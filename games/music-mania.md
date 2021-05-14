@@ -10,9 +10,9 @@ group_sizes:
   - multiple
   - event
 materials:
-  - Speaker
-  - mp3s
-prior_prep: yes
+  - "Speaker"
+  - "mp3s"
+prior_prep: "yes"
 exhausting: False
 touching: False
 scalable: False

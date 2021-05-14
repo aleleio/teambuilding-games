@@ -8,8 +8,8 @@ group_sizes:
   - small
   - large
 materials:
-  - Ring
-  - Vaseline/Mayonnaise
+  - "Ring"
+  - "Vaseline/Mayonnaise"
 exhausting: False
 touching: False
 scalable: False

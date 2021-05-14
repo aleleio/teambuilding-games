@@ -7,8 +7,8 @@ group_sizes:
   - small
   - large
 materials:
-  - Paper with cities
-prior_prep: yes
+  - "Paper with cities"
+prior_prep: "yes"
 exhausting: False
 touching: False
 scalable: False

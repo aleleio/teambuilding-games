@@ -15,9 +15,9 @@ group_needs:
   - slug: id
     score: 1
 materials:
-  - Rope
-  - Something that serves as a 'valuable object' e.g. a bucket.
-prior_prep: yes
+  - "Rope"
+  - "Something that serves as a 'valuable object' e.g. a bucket."
+prior_prep: "yes"
 exhausting: False
 touching: True
 scalable: False

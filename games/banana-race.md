@@ -8,7 +8,7 @@ group_sizes:
   - small
   - large
 materials:
-  - bananas
+  - "bananas"
 exhausting: False
 touching: False
 scalable: False

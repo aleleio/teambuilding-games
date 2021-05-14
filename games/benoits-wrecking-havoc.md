@@ -9,22 +9,22 @@ group_sizes:
   - large
   - multiple
 materials:
-  - Rope
-  - Pens
-  - Paper
-  - A4 Paper (Colour)
-  - Post-Its
-  - Tape
-  - A4 Paper (White)
-  - String
-  - Sticks
-  - Balloons
-  - Shoeboxes
-  - glue
-  - stickers
-  - leaves
-  - branches
-prior_prep: Before the game starts, you should prepare a big pile of material in the middle of the area that everyone can easily access. Emphasise the fact that the material is for common use.\n\nIf done with paint:\n\nEVERYONE SHOULD BE WEARING OLD CLOTHES THAT CAN EASILY BE RUINED\nMAKE SURE THE AREA IS EASY TO CLEAN\nMAKE SURE TO USE GOUACHE PAINT OR FINGERPAINT: NEVER ACRYLICS OR OIL PAINT. This is important because of how tedious these last two are to clean up.\nMake sure the delegates will have time to shower after.\nMake sure there will be enough time to clean up after.\n\nBest done outside, in summer.
+  - "Rope"
+  - "Pens"
+  - "Paper"
+  - "A4 Paper (Colour)"
+  - "Post-Its"
+  - "Tape"
+  - "A4 Paper (White)"
+  - "String"
+  - "Sticks"
+  - "Balloons"
+  - "Shoeboxes"
+  - "glue"
+  - "stickers"
+  - "leaves"
+  - "branches"
+prior_prep: "Before the game starts, you should prepare a big pile of material in the middle of the area that everyone can easily access. Emphasise the fact that the material is for common use.\n\nIf done with paint:\n\nEVERYONE SHOULD BE WEARING OLD CLOTHES THAT CAN EASILY BE RUINED\nMAKE SURE THE AREA IS EASY TO CLEAN\nMAKE SURE TO USE GOUACHE PAINT OR FINGERPAINT: NEVER ACRYLICS OR OIL PAINT. This is important because of how tedious these last two are to clean up.\nMake sure the delegates will have time to shower after.\nMake sure there will be enough time to clean up after.\n\nBest done outside, in summer."
 exhausting: True
 touching: False
 scalable: False

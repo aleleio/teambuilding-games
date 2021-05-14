@@ -8,9 +8,9 @@ group_sizes:
   - small
   - large
 materials:
-  - Cloth
-  - Rope
-  - Newspaper
+  - "Cloth"
+  - "Rope"
+  - "Newspaper"
 exhausting: True
 touching: False
 scalable: False

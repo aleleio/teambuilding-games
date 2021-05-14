@@ -14,7 +14,7 @@ group_needs:
   - slug: hon
     score: 1
 materials:
-  - Chairs
+  - "Chairs"
 exhausting: False
 touching: False
 scalable: False

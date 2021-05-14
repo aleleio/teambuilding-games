@@ -9,8 +9,8 @@ group_sizes:
   - large
   - multiple
 materials:
-  - Mixture, Variety of objects/building kits ideal (lego etc.)
-prior_prep: Build something - a display/a structure etc (somewhere the delegates can't see it while you're building it.
+  - "Mixture, Variety of objects/building kits ideal (lego etc.)"
+prior_prep: "Build something - a display/a structure etc (somewhere the delegates can't see it while you're building it."
 exhausting: False
 touching: False
 scalable: False

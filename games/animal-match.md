@@ -16,8 +16,8 @@ group_needs:
   - slug: ener
     score: 3
 materials:
-  - Paper
-  - Post Its
+  - "Paper"
+  - "Post Its"
 exhausting: False
 touching: False
 scalable: False

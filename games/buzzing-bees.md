@@ -8,7 +8,7 @@ group_sizes:
   - small
   - large
 materials:
-  - Blindfolds
+  - "Blindfolds"
 exhausting: False
 touching: False
 scalable: False

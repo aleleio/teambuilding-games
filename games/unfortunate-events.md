@@ -6,8 +6,8 @@ game_lengths:
 group_sizes:
   - large
 materials:
-  - markers
-  - Flipchart
+  - "markers"
+  - "Flipchart"
 exhausting: False
 touching: False
 scalable: False

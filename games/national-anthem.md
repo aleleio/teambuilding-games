@@ -9,8 +9,8 @@ group_sizes:
   - small
   - large
 materials:
-  - Balls
-  - music
+  - "Balls"
+  - "music"
 exhausting: False
 touching: False
 scalable: False

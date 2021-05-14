@@ -8,7 +8,7 @@ group_sizes:
   - small
   - large
 materials:
-  - Balls, tennis balls,
+  - "Balls, tennis balls,"
 exhausting: False
 touching: False
 scalable: False

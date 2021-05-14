@@ -9,7 +9,7 @@ game_lengths:
 group_sizes:
   - large
 materials:
-  - Area 2ft square
+  - "Area 2ft square"
 exhausting: True
 touching: False
 scalable: False

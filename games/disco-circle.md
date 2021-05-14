@@ -8,8 +8,8 @@ group_sizes:
   - large
   - multiple
 materials:
-  - Speaker
-  - mp3s
+  - "Speaker"
+  - "mp3s"
 exhausting: False
 touching: False
 scalable: False

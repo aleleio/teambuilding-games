@@ -14,8 +14,8 @@ group_needs:
   - slug: hon
     score: 1
 materials:
-  - Bags
-prior_prep: yes
+  - "Bags"
+prior_prep: "yes"
 exhausting: False
 touching: False
 scalable: False

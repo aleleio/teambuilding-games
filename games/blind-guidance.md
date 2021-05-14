@@ -8,8 +8,8 @@ group_sizes:
   - small
   - large
 materials:
-  - Blindfolds
-  - Rope
+  - "Blindfolds"
+  - "Rope"
 exhausting: False
 touching: True
 scalable: False

@@ -8,8 +8,8 @@ group_sizes:
   - small
   - large
 materials:
-  - Random Objects, One random object to spark creativity.
-prior_prep: Eventually, if the team is not particular outgoing, give them five minutes to each think of something on their own. You may need to give an example yourself.\n.
+  - "Random Objects, One random object to spark creativity."
+prior_prep: "Eventually, if the team is not particular outgoing, give them five minutes to each think of something on their own. You may need to give an example yourself.\n."
 exhausting: False
 touching: False
 scalable: False

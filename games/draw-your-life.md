@@ -7,10 +7,10 @@ group_sizes:
   - small
   - large
 materials:
-  - Pens
-  - markers
-  - A4 Paper (White)
-  - flipcharts
+  - "Pens"
+  - "markers"
+  - "A4 Paper (White)"
+  - "flipcharts"
 exhausting: False
 touching: False
 scalable: False

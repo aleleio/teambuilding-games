@@ -6,7 +6,7 @@ game_lengths:
 group_sizes:
   - small
   - large
-prior_prep: It may be useful when the energy level is really high, and you want the group to calm down and focus on something.
+prior_prep: "It may be useful when the energy level is really high, and you want the group to calm down and focus on something."
 exhausting: False
 touching: False
 scalable: False

@@ -10,7 +10,7 @@ group_sizes:
   - multiple
   - event
 materials:
-  - Notes with the name of each person in the group
+  - "Notes with the name of each person in the group"
 exhausting: False
 touching: True
 scalable: True

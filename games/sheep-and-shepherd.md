@@ -8,8 +8,8 @@ group_sizes:
   - small
   - large
 materials:
-  - Blindfolds
-  - Something that marks the sheep pen
+  - "Blindfolds"
+  - "Something that marks the sheep pen"
 exhausting: False
 touching: False
 scalable: False

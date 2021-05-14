@@ -13,7 +13,7 @@ group_needs:
   - slug: names
     score: 3
 materials:
-  - A flashlight
+  - "A flashlight"
 exhausting: False
 touching: False
 scalable: False

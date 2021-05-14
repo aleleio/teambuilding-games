@@ -15,9 +15,9 @@ group_needs:
   - slug: hon
     score: 2
 materials:
-  - orange
-  - ball
-  - bottle
+  - "orange"
+  - "ball"
+  - "bottle"
 exhausting: False
 touching: True
 scalable: False

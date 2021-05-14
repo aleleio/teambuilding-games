@@ -10,11 +10,11 @@ group_sizes:
   - multiple
   - event
 materials:
-  - water
-  - Trays
-  - Canteen trays
-  - buckets
-prior_prep: Prepare the race tracks; each track needs to have a bucket or similar at the end of it.\n\nAlso, each team should be provided with a decent amount of trays and there should be a possibility to easily refill the trays with water.
+  - "water"
+  - "Trays"
+  - "Canteen trays"
+  - "buckets"
+prior_prep: "Prepare the race tracks; each track needs to have a bucket or similar at the end of it.\n\nAlso, each team should be provided with a decent amount of trays and there should be a possibility to easily refill the trays with water."
 exhausting: True
 touching: False
 scalable: False

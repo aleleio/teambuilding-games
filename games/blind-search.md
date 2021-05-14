@@ -13,8 +13,8 @@ group_needs:
   - slug: ener
     score: 2
 materials:
-  - Blindfolds
-  - 5 random objects
+  - "Blindfolds"
+  - "5 random objects"
 exhausting: False
 touching: False
 scalable: False

@@ -9,8 +9,8 @@ group_sizes:
   - small
   - large
 materials:
-  - Speaker
-  - music
+  - "Speaker"
+  - "music"
 exhausting: False
 touching: False
 scalable: False

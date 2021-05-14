@@ -10,7 +10,7 @@ group_sizes:
   - large
   - multiple
 materials:
-  - Toilet paper, Lots of rolls of toilet paper
+  - "Toilet paper, Lots of rolls of toilet paper"
 exhausting: False
 touching: False
 scalable: False

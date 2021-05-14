@@ -8,11 +8,11 @@ group_sizes:
   - small
   - large
 materials:
-  - String
-  - Bucket
-  - ping-pong ball
-  - The \"atomic bomb\" - a pipe with about 15-20 holes in it)
-prior_prep: You have to make the \"atomic bomb\" (a pipe with about 15-20 holes in it) and hang it up high.
+  - "String"
+  - "Bucket"
+  - "ping-pong ball"
+  - "The \"atomic bomb\" - a pipe with about 15-20 holes in it)"
+prior_prep: "You have to make the \"atomic bomb\" (a pipe with about 15-20 holes in it) and hang it up high."
 exhausting: False
 touching: False
 scalable: False

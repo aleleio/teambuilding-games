@@ -8,10 +8,10 @@ group_sizes:
   - small
   - large
 materials:
-  - orange
-  - Balls
-  - Tennis ball
-  - apple
+  - "orange"
+  - "Balls"
+  - "Tennis ball"
+  - "apple"
 exhausting: False
 touching: False
 scalable: False

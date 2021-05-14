@@ -13,8 +13,8 @@ group_needs:
   - slug: names
     score: 3
 materials:
-  - Tape
-  - Chalk
+  - "Tape"
+  - "Chalk"
 exhausting: False
 touching: False
 scalable: False

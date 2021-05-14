@@ -7,7 +7,7 @@ group_sizes:
   - large
   - multiple
   - event
-prior_prep: Make up your own chain of evolution: Amoeba - Frog - Rabbit - Monkey - EYPer
+prior_prep: "Make up your own chain of evolution: Amoeba - Frog - Rabbit - Monkey - EYPer"
 exhausting: False
 touching: False
 scalable: False

@@ -9,9 +9,9 @@ group_sizes:
   - small
   - large
 materials:
-  - Rope
-  - two poles/trees
-prior_prep: Tie the rope around the poles in a way that the hole are different sizes and heights - as difficult/easy as you like. Take strong rope in various lengths. Make sure the surface underneath is not too hard/rocky)
+  - "Rope"
+  - "two poles/trees"
+prior_prep: "Tie the rope around the poles in a way that the hole are different sizes and heights - as difficult/easy as you like. Take strong rope in various lengths. Make sure the surface underneath is not too hard/rocky)"
 exhausting: True
 touching: False
 scalable: False

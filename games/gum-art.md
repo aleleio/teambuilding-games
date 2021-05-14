@@ -8,8 +8,8 @@ group_sizes:
   - small
   - large
 materials:
-  - Toothpick - one per delegate
-  - Chewing gum - one per delegate
+  - "Toothpick - one per delegate"
+  - "Chewing gum - one per delegate"
 exhausting: False
 touching: False
 scalable: False

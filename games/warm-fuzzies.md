@@ -8,8 +8,8 @@ group_sizes:
   - small
   - large
 materials:
-  - Pens
-  - Post Its
+  - "Pens"
+  - "Post Its"
 exhausting: False
 touching: False
 scalable: False

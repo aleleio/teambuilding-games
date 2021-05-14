@@ -7,8 +7,8 @@ group_sizes:
   - small
   - large
 materials:
-  - toilet paper
-  - Toilet roll
+  - "toilet paper"
+  - "Toilet roll"
 exhausting: False
 touching: False
 scalable: False

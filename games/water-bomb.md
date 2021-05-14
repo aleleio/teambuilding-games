@@ -8,10 +8,10 @@ group_sizes:
   - small
   - large
 materials:
-  - Rope
-  - Bucket
-  - optional materials
-prior_prep: Get a bucket, fill it with water. Optional: Get materials for retrieving the bucket.
+  - "Rope"
+  - "Bucket"
+  - "optional materials"
+prior_prep: "Get a bucket, fill it with water. Optional: Get materials for retrieving the bucket."
 exhausting: False
 touching: False
 scalable: False

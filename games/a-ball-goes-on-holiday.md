@@ -8,8 +8,8 @@ group_sizes:
   - small
   - large
 materials:
-  - Balls
-  - Ball/Apple/Orange
+  - "Balls"
+  - "Ball/Apple/Orange"
 exhausting: False
 touching: False
 scalable: False

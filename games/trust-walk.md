@@ -8,7 +8,7 @@ group_sizes:
   - small
   - large
 materials:
-  - Blindfolds for half of the group.
+  - "Blindfolds for half of the group."
 exhausting: False
 touching: False
 scalable: False

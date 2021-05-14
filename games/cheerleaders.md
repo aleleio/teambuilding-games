@@ -13,7 +13,7 @@ group_needs:
   - slug: names
     score: 4
 materials:
-  - music
+  - "music"
 exhausting: False
 touching: False
 scalable: True
