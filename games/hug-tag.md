@@ -23,4 +23,5 @@ digital: False
 # Hug Tag
 
 ## Description
-One participant is a \"freezer\". Everyone else scatters in all directions. The freezer counts to five, and then takes off after the others. Once they tag someone, that person becomes another freezer. Participants are only safe from being\ntagged when they are hugging another participant.
+One participant is a "freezer". Everyone else scatters in all directions. The freezer counts to five, and then takes off after the others. Once they tag someone, that person becomes another freezer. Participants are only safe from being
+tagged when they are hugging another participant.

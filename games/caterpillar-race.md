@@ -18,4 +18,5 @@ digital: False
 # Caterpillar Race
 
 ## Description
-Make group members line up behind each other, bent at the waist holding the\nankles of the person in front of each other. Tell them to try to move forward as a team. If someone loses the ankle grip, the caterpillar must stop until everyone is intact.
+Make group members line up behind each other, bent at the waist holding the
+ankles of the person in front of each other. Tell them to try to move forward as a team. If someone loses the ankle grip, the caterpillar must stop until everyone is intact.

@@ -17,4 +17,5 @@ digital: False
 # Toilet Paper
 
 ## Description
-Tell participants to take a length of tissue. Only after all have taken some, tell\nthem for each panel of tissue they have to say one positive thing about themselves.
+Tell participants to take a length of tissue. Only after all have taken some, tell
+them for each panel of tissue they have to say one positive thing about themselves.

@@ -15,4 +15,5 @@ digital: False
 # Name Hug
 
 ## Description
-Everybody is running around the place. Once you yell somebodys name this\nperson stand still and everybody must hug them.
+Everybody is running around the place. Once you yell somebodys name this
+person stand still and everybody must hug them.

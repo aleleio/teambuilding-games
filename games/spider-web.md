@@ -23,4 +23,7 @@ digital: False
 Every group member has to get from one side to the other, by only using each hole in the web once. They are not at all allowed to touch the web.
 
 ## Description
-Time limits - makes it harder\nPlanning time without practice - makes it better for communication\nTime limits for planning - makes it good to practice time management\nStrictness about not touching ropes - makes it harder/easier
+Time limits - makes it harder
+Planning time without practice - makes it better for communication
+Time limits for planning - makes it good to practice time management
+Strictness about not touching ropes - makes it harder/easier

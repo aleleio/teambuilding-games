@@ -27,4 +27,6 @@ digital: False
 # Silent Identification
 
 ## Description
-Each participant is asked to wither write words or draw pictures that describe themselves. This is done silently. \n\nThey pin he picture on their chests, walk around and have everyone look each other over. Pictures are then shuffled and participants are asked to identify the person to which the picture belongs.
+Each participant is asked to wither write words or draw pictures that describe themselves. This is done silently. 
+
+They pin he picture on their chests, walk around and have everyone look each other over. Pictures are then shuffled and participants are asked to identify the person to which the picture belongs.

@@ -17,4 +17,5 @@ digital: False
 Have all the players crouch down to the floor and say were going to count from 1-10 with 1 being low and quiet building to 10 which is loud and tall.
 
 ## Description
-Increase the numbers - more energy\nAdd movement to each number - makes the game more interesting
+Increase the numbers - more energy
+Add movement to each number - makes the game more interesting

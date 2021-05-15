@@ -15,4 +15,8 @@ digital: False
 # I'm Here & I'm Happy!
 
 ## Description
-Make the group stand in a circle. On a sign given by the facilitator everybody\nstarts screaming their name - the louder, the better! Then make them scream\n'Im happy! or 'Im here! in their own languages in the same way - at the same\ntime, the louder, the better. Once theyve finished, make them scream their\nname and the powerful sentence one by one in a round.
+Make the group stand in a circle. On a sign given by the facilitator everybody
+starts screaming their name - the louder, the better! Then make them scream
+'Im happy! or 'Im here! in their own languages in the same way - at the same
+time, the louder, the better. Once theyve finished, make them scream their
+name and the powerful sentence one by one in a round.

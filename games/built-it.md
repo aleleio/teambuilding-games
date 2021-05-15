@@ -22,4 +22,5 @@ digital: False
 Prepare an image or build an object composed by different elements (leaves, stones, pens...). Each delegate can see the original object once at time, and then they have to build it.
 
 ## Description
-Similar to ikea game - each delegate has a limited amount of time and number of views.\nCan specify that only specific delegates can view the object - makes the game targetted at getting quiet delegates involved
+Similar to ikea game - each delegate has a limited amount of time and number of views.
+Can specify that only specific delegates can view the object - makes the game targetted at getting quiet delegates involved

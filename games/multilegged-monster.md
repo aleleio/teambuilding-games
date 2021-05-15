@@ -16,4 +16,12 @@ digital: False
 # Multilegged Monster
 
 ## Description
-The aim is to transport your group over a distance of 20 meters while singing a song. Constraints: Only a certain number of legs may touch the ground at one time:\n\nGroup of 12: 8 legs\nGroup of 13: 9 legs\nGroup of 14: 10 legs\netc.\nIf more than the stated number touch the ground than the group must return to the starting point and try again.\nA 'leg' is defined as any part of the human body that touches the ground.\nHead and tail of the group must be clear.
+The aim is to transport your group over a distance of 20 meters while singing a song. Constraints: Only a certain number of legs may touch the ground at one time:
+
+Group of 12: 8 legs
+Group of 13: 9 legs
+Group of 14: 10 legs
+etc.
+If more than the stated number touch the ground than the group must return to the starting point and try again.
+A 'leg' is defined as any part of the human body that touches the ground.
+Head and tail of the group must be clear.

@@ -16,4 +16,7 @@ digital: False
 # Good morning!
 
 ## Description
-Have members of the group walking around the place. Once the meet\nsomebody they need to welcome (saying \"Good morning\", \"Hello!\" etc., and\nintroduce their names (saying \"My name is...', \"I'm...\" etc) to each other. It may\nseem funny but it really works!
+Have members of the group walking around the place. Once the meet
+somebody they need to welcome (saying "Good morning", "Hello!" etc., and
+introduce their names (saying "My name is...', "I'm..." etc) to each other. It may
+seem funny but it really works!

@@ -18,4 +18,5 @@ digital: False
 # Disco Circle
 
 ## Description
-Group forms a circle. A song is played on the background, preferably a funky one, with a good rhythm. Chair starts with a move that is to be imitated by the participants.\nNext delegate in the circle introduces another move and so on.
+Group forms a circle. A song is played on the background, preferably a funky one, with a good rhythm. Chair starts with a move that is to be imitated by the participants.
+Next delegate in the circle introduces another move and so on.

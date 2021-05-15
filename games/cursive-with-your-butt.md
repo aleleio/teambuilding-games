@@ -15,7 +15,19 @@ digital: False
 # Cursive with your Butt
 
 ## Description
-Ask the group, "Who in this group thinks they can dance well?" Have them sit down.\nAsk the group, "Who can dance pretty well or at least keep a good rhythm?" Have them sit down. \n\nThe people who are still standing will be learning how to dance a bit. The people, who are sitting down will help keep the beat by clapping their hands. \n\nAsk the standing participants to bend their knees a little bit \nFeel the rhythm and bounce a little to the beat \nShake your arms to keep them loose \nStick your butt out a little bit and... \nSign your name in cursive with your butt
+Ask the group, "Who in this group thinks they can dance well?" Have them sit down.
+Ask the group, "Who can dance pretty well or at least keep a good rhythm?" Have them sit down. 
+
+The people who are still standing will be learning how to dance a bit. The people, who are sitting down will help keep the beat by clapping their hands. 
+
+Ask the standing participants to bend their knees a little bit 
+Feel the rhythm and bounce a little to the beat 
+Shake your arms to keep them loose 
+Stick your butt out a little bit and... 
+Sign your name in cursive with your butt
 
 ## Description
-Alternatives: \n  Sign your name vertically \n  Sign your name horizontally \n  Try a new font
+Alternatives: 
+  Sign your name vertically 
+  Sign your name horizontally 
+  Try a new font

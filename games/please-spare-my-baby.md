@@ -19,7 +19,11 @@ digital: False
 # Please, spare my baby!
 
 ## Description
-Everyone receives a balloon, to be placed under their shirt on the backside. The balloons have been previously filled in a way that they are not likely to explode under small pressure (that is, its still safe to grasp them and gently squeeze them).\n \nAs the chair/trainer says 'go, each person has to grab and hold another one from the back, so as to make their balloon explode.\n\nThe last one carrying their balloon wins.
+Everyone receives a balloon, to be placed under their shirt on the backside. The balloons have been previously filled in a way that they are not likely to explode under small pressure (that is, its still safe to grasp them and gently squeeze them).
+ 
+As the chair/trainer says 'go, each person has to grab and hold another one from the back, so as to make their balloon explode.
+
+The last one carrying their balloon wins.
 
 ## Description
 Perhaps add blindfolds?

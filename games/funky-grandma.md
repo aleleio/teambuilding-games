@@ -18,4 +18,18 @@ digital: False
 # Funky Grandma
 
 ## Description
-Funny moves (Teambuiolder's choice) are performed corresponding to the body part in the lyrics. Repeat Chorus before every move. \n\nLyrics:\n(Chorus):\nI had a funky grandma,\nShe was a merry maid\nAnd when she went dancing: \n(End Chorus)\n\nHer fingers went like this x3\nHer feet went like this x 3\nHer hips went like this x 3\nHer head went like this x3\nHer bum wents like this x 3\nAnd then she slept like this x 3
+Funny moves (Teambuiolder's choice) are performed corresponding to the body part in the lyrics. Repeat Chorus before every move. 
+
+Lyrics:
+(Chorus):
+I had a funky grandma,
+She was a merry maid
+And when she went dancing: 
+(End Chorus)
+
+Her fingers went like this x3
+Her feet went like this x 3
+Her hips went like this x 3
+Her head went like this x3
+Her bum wents like this x 3
+And then she slept like this x 3

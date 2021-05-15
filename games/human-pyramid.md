@@ -20,4 +20,5 @@ digital: False
 Your group has to build a pyramid as quickly as possible. (e.g. 4-3-2-1)
 
 ## Description
-More people - bigger challenge\nRace against another committee - more fun
+More people - bigger challenge
+Race against another committee - more fun

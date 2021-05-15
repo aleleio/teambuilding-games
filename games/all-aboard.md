@@ -18,4 +18,10 @@ digital: False
 # All Aboard
 
 ## Description
-The goal is to get a group of twelve to sixteen people on a two-foot square\nplatform without anyone touching the ground. Rules:\n Each person must have both feet off the ground.\n Everyone in the group must remain on the platform for at least 10\n￼￼seconds.\n Participants can not lay on top of each other, forming a dog pile, as a\nsolution to this activity.
+The goal is to get a group of twelve to sixteen people on a two-foot square
+platform without anyone touching the ground. Rules:
+ Each person must have both feet off the ground.
+ Everyone in the group must remain on the platform for at least 10
+￼￼seconds.
+ Participants can not lay on top of each other, forming a dog pile, as a
+solution to this activity.

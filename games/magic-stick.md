@@ -22,4 +22,6 @@ digital: False
 The group splits into two and stands in two lines facing each other, putting out both arms so that the fingertips touch. The stick is put on their fingertips and must be raised from the ground while staying perfectly straight and without anyone losing the connection with the stick.
 
 ## Description
-The task can also be to lower the stick to the ground without losing contact with the stick.\n\nTo increase difficulty, all delegates except for one can be blindfolded.
+The task can also be to lower the stick to the ground without losing contact with the stick.
+
+To increase difficulty, all delegates except for one can be blindfolded.

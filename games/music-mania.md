@@ -21,4 +21,5 @@ digital: False
 # Music Mania
 
 ## Description
-Select some internationally recognizable songs. Play them very loudly so that everyone can hear them well.\nAsk the group to reflect the mood of the music in their movements. Choose a good variety of songs so that their movements will be sufficiently different depending on the music.
+Select some internationally recognizable songs. Play them very loudly so that everyone can hear them well.
+Ask the group to reflect the mood of the music in their movements. Choose a good variety of songs so that their movements will be sufficiently different depending on the music.

@@ -14,4 +14,7 @@ digital: False
 # Do It Your Own Way
 
 ## Description
-To be played after the first round of name games. The group sits in a circle\nwith eyes closed. Starting with the facilitator, everybody has to say their name in\na way their prefer: whispering, shouting, murmuring, singing etc. Then the\ngroup is to repeat the name of the person in the same way.
+To be played after the first round of name games. The group sits in a circle
+with eyes closed. Starting with the facilitator, everybody has to say their name in
+a way their prefer: whispering, shouting, murmuring, singing etc. Then the
+group is to repeat the name of the person in the same way.
