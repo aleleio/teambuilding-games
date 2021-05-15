@@ -11,7 +11,7 @@ That's it.
 If you need help or get stuck, please feel free to [open an issue](https://github.com/aleleio/teambuilding-games/issues). If you want to edit more than one game, the recommended way is to fork and clone the repo locally:
 
 * Create [a fork](https://github.com/aleleio/teambuilding-games/fork) of this repo in your account
-* Clone the repo to your local machine with `git clone https://github.com/aleleio/teambuilding-games.git`
+* Clone the repo to your local machine with `git clone https://github.com/[YOUR-ACCOUNT]/teambuilding-games.git`
 * Create a new branch using `git switch -c new-branch`
 * Add your changes in this branch and commit them with a descriptive name
 * Create [a pull-request](https://github.com/aleleio/teambuilding-games/pulls) from your `new-branch -> main`
