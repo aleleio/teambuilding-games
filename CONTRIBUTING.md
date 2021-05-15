@@ -28,16 +28,14 @@ Please stick to these enums, when creating frontmatter:
 game_type:
   - ice | ener | trust | prob | name | brain | song | race | gtk
 game_length:
-  - short  # <10 mins
-  - medium  # 10-30 mins
-  - long  # 30-120 mins
+  - short | medium | long 
+  # <10 mins | 10-30 mins | 30-120 mins
 group_size:
-  - small  # 2-7 people
-  - large  # 13-16 people
-  - multiple  # 15-40 people
-  - event  # 50-300 people
+  - small | large | multiple | event
+  # 2-7 people | 13-16 people | 15-40 people | 50-300 people
 group_needs:
   - slug: first | energy | honesty | strategy | inspiration | why | identity
     score: 0 | 1 | 2 | 3 | 4 | 5
+  # First Steps | Group Energy | Foster Honesty and Trust | Practice Strategy and Co-operation | Inspiration | Team "Why" | Group Identity
 ---
 ```
