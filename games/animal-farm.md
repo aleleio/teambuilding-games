@@ -6,19 +6,19 @@ game_lengths:
 group_sizes:
   - large
 group_needs:
-  - slug: names
+  - slug: first
     score: 2
-  - slug: ener
+  - slug: energy
     score: 2
 exhausting: False
 touching: True
 scalable: False
 digital: False
 license:
-  - name: CC BY-SA 4.0
-  - url: https://creativecommons.org/licenses/by-sa/4.0/
-  - owner: European Youth Parliament
-  - owner_url: https://eyp.org/
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0/
+  owner: European Youth Parliament
+  owner_url: https://eyp.org/
 ---
 # Animal Farm
 

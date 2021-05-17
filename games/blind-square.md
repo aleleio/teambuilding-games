@@ -7,11 +7,11 @@ group_sizes:
   - small
   - large
 group_needs:
-  - slug: hon
+  - slug: honesty
     score: 2
-  - slug: strat
+  - slug: strategy
     score: 4
-  - slug: id
+  - slug: identity
     score: 1
 prior_prep: "yes"
 exhausting: False
@@ -19,10 +19,10 @@ touching: False
 scalable: False
 digital: False
 license:
-  - name: CC BY-SA 4.0
-  - url: https://creativecommons.org/licenses/by-sa/4.0/
-  - owner: European Youth Parliament
-  - owner_url: https://eyp.org/
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0/
+  owner: European Youth Parliament
+  owner_url: https://eyp.org/
 ---
 # Blind Square
 

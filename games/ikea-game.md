@@ -7,11 +7,11 @@ group_sizes:
   - large
   - multiple
 group_needs:
-  - slug: strat
+  - slug: strategy
     score: 4
-  - slug: ener
+  - slug: energy
     score: 0
-  - slug: hon
+  - slug: honesty
     score: 3
 materials:
   - "Use 8 different, random objects, you need four of each object"
@@ -21,10 +21,10 @@ touching: False
 scalable: False
 digital: False
 license:
-  - name: CC BY-SA 4.0
-  - url: https://creativecommons.org/licenses/by-sa/4.0/
-  - owner: European Youth Parliament
-  - owner_url: https://eyp.org/
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0/
+  owner: European Youth Parliament
+  owner_url: https://eyp.org/
 ---
 # Ikea Game
 

@@ -10,17 +10,17 @@ group_sizes:
   - multiple
   - event
 group_needs:
-  - slug: names
+  - slug: first
     score: 5
 exhausting: False
 touching: False
 scalable: True
 digital: False
 license:
-  - name: CC BY-SA 4.0
-  - url: https://creativecommons.org/licenses/by-sa/4.0/
-  - owner: European Youth Parliament
-  - owner_url: https://eyp.org/
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0/
+  owner: European Youth Parliament
+  owner_url: https://eyp.org/
 ---
 # Map the group
 

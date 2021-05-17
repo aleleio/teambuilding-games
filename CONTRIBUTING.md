@@ -1,6 +1,6 @@
 # Contributing to Teambuilding Games
 
-Thanks for considering to contribute to the teambuilding games collection! :tada:
+:tada: Thanks for considering to contribute to the teambuilding games collection! :star2:
 
 ### Adding or Updating Games
 Adding to the library of teambuilding games is as simple as opening a game and clicking the `Edit this file` pencil icon.
@@ -21,7 +21,7 @@ This is also known as [Github Flow](https://guides.github.com/introduction/flow/
 
 ### YAML Frontmatter
 
-Please stick to these enums, when creating frontmatter:
+This is a comprehensive list of frontmatter attributes. Only `game_type`, `game_length` and `group_size` are required.
 
 ```yaml
 ---
@@ -37,5 +37,18 @@ group_needs:
   - slug: first | energy | honesty | strategy | inspiration | why | identity
     score: 0 | 1 | 2 | 3 | 4 | 5
   # First Steps | Group Energy | Foster Honesty and Trust | Practice Strategy and Co-operation | Inspiration | Team "Why" | Group Identity
+materials:
+  - "Pen & Colorful Paper"
+  - "Bananas"
+prior_prep: "Fold tiny party hats and put them on the bananas. Draw faces for added \"fun\"."
+exhausting: True | False
+touching: True | False
+scalable: True | False
+digital: True | False
+license:
+  name: "CC BY-SA 4.0"
+  url: "https://creativecommons.org/licenses/by-sa/4.0/"
+  owner: "European Youth Parliament"
+  owner_url: "https://eyp.org/"
 ---
 ```

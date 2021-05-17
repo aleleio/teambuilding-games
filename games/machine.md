@@ -8,19 +8,19 @@ group_sizes:
   - small
   - large
 group_needs:
-  - slug: ener
+  - slug: energy
     score: 3
-  - slug: id
+  - slug: identity
     score: 1
 exhausting: False
 touching: True
 scalable: False
 digital: False
 license:
-  - name: CC BY-SA 4.0
-  - url: https://creativecommons.org/licenses/by-sa/4.0/
-  - owner: European Youth Parliament
-  - owner_url: https://eyp.org/
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0/
+  owner: European Youth Parliament
+  owner_url: https://eyp.org/
 ---
 # Machine
 

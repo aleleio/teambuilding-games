@@ -7,11 +7,11 @@ group_sizes:
   - small
   - large
 group_needs:
-  - slug: ener
+  - slug: energy
     score: 2
-  - slug: strat
+  - slug: strategy
     score: 2
-  - slug: hon
+  - slug: honesty
     score: 2
 materials:
   - "A written out version of the story"
@@ -20,10 +20,10 @@ touching: False
 scalable: False
 digital: False
 license:
-  - name: CC BY-SA 4.0
-  - url: https://creativecommons.org/licenses/by-sa/4.0/
-  - owner: European Youth Parliament
-  - owner_url: https://eyp.org/
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0/
+  owner: European Youth Parliament
+  owner_url: https://eyp.org/
 ---
 # Story Telling
 

@@ -11,11 +11,11 @@ group_sizes:
   - multiple
   - event
 group_needs:
-  - slug: names
+  - slug: first
     score: 4
-  - slug: hon
+  - slug: honesty
     score: 2
-  - slug: id
+  - slug: identity
     score: 1
 prior_prep: "Can I have us divide into two equal-sized groups!
 Group one, please form a circle, facing outward. Group two, each person find a partner from group one and look deep in their eyes! One partner per person! 
@@ -30,10 +30,10 @@ touching: False
 scalable: False
 digital: False
 license:
-  - name: CC BY-SA 4.0
-  - url: https://creativecommons.org/licenses/by-sa/4.0/
-  - owner: European Youth Parliament
-  - owner_url: https://eyp.org/
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0/
+  owner: European Youth Parliament
+  owner_url: https://eyp.org/
 ---
 # Concentric Circles
 

@@ -11,17 +11,17 @@ materials:
   - "String"
   - "Bucket"
   - "ping-pong ball"
-  - "The "atomic bomb" - a pipe with about 15-20 holes in it)"
-prior_prep: "You have to make the "atomic bomb" (a pipe with about 15-20 holes in it) and hang it up high."
+  - "The \"atomic bomb\" - a pipe with about 15-20 holes in it)"
+prior_prep: "You have to make the \"atomic bomb\" (a pipe with about 15-20 holes in it) and hang it up high."
 exhausting: False
 touching: False
 scalable: False
 digital: False
 license:
-  - name: CC BY-SA 4.0
-  - url: https://creativecommons.org/licenses/by-sa/4.0/
-  - owner: European Youth Parliament
-  - owner_url: https://eyp.org/
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0/
+  owner: European Youth Parliament
+  owner_url: https://eyp.org/
 ---
 # Atomic Bomb
 

@@ -8,19 +8,19 @@ group_sizes:
   - small
   - large
 group_needs:
-  - slug: names
+  - slug: first
     score: 3
-  - slug: ener
+  - slug: energy
     score: 4
 exhausting: False
 touching: False
 scalable: False
 digital: False
 license:
-  - name: CC BY-SA 4.0
-  - url: https://creativecommons.org/licenses/by-sa/4.0/
-  - owner: European Youth Parliament
-  - owner_url: https://eyp.org/
+  name: CC BY-SA 4.0
+  url: https://creativecommons.org/licenses/by-sa/4.0/
+  owner: European Youth Parliament
+  owner_url: https://eyp.org/
 ---
 # Balloon Bust
 
