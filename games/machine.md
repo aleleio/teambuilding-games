@@ -12,6 +12,8 @@ group_needs:
     score: 3
   - slug: identity
     score: 1
+  - slug: groupid
+    score: 1
 exhausting: False
 touching: True
 scalable: False
