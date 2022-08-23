@@ -11,7 +11,7 @@ group_needs:
     score: 4
   - slug: inspiration
     score: 1
-  - slug: identity
+  - slug: groupid
     score: 1
 exhausting: False
 touching: True

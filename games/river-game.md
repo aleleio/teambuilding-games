@@ -11,7 +11,7 @@ group_needs:
     score: 4
   - slug: honesty
     score: 1
-  - slug: identity
+  - slug: groupid
     score: 1
 materials:
   - "Balls"

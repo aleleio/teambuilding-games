@@ -11,7 +11,7 @@ group_needs:
     score: 2
   - slug: strategy
     score: 4
-  - slug: identity
+  - slug: groupid
     score: 1
 prior_prep: "yes"
 exhausting: False

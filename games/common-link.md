@@ -8,7 +8,7 @@ group_sizes:
   - small
   - large
 group_needs:
-  - slug: identity
+  - slug: groupid
     score: 1
   - slug: first
     score: 4

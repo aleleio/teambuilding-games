@@ -32,7 +32,7 @@ game_length:
 group_size:
   - small | large | multiple | event  # 2-7 people | 13-16 people | 15-40 people | 50-300 people
 group_needs:
-  - slug: first | energy | honesty | strategy | inspiration | why | identity  # First Steps | Group Energy | Foster Honesty and Trust | Practice Strategy and Co-operation | Inspiration | Team "Why" | Group Identity
+  - slug: first | energy | honesty | strategy | inspiration | why | groupid  # First Steps | Group Energy | Foster Honesty and Trust | Practice Strategy and Co-operation | Inspiration | Team "Why" | Group Identity
     score: 0 | 1 | 2 | 3 | 4 | 5
 materials:
   - "Pen & Colorful Paper"

@@ -12,7 +12,7 @@ group_needs:
     score: 4
   - slug: energy
     score: 1
-  - slug: identity
+  - slug: groupid
     score: 1
 materials:
   - "Rope"

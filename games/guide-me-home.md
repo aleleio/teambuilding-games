@@ -10,7 +10,7 @@ group_sizes:
 group_needs:
   - slug: honesty
     score: 4
-  - slug: identity
+  - slug: groupid
     score: 2
   - slug: strategy
     score: 2

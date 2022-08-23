@@ -10,7 +10,7 @@ group_sizes:
 group_needs:
   - slug: energy
     score: 3
-  - slug: identity
+  - slug: groupid
     score: 1
 exhausting: False
 touching: True

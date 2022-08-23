@@ -15,7 +15,7 @@ group_needs:
     score: 4
   - slug: honesty
     score: 2
-  - slug: identity
+  - slug: groupid
     score: 1
 prior_prep: "Can I have us divide into two equal-sized groups!
 Group one, please form a circle, facing outward. Group two, each person find a partner from group one and look deep in their eyes! One partner per person! 

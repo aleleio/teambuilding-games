@@ -10,7 +10,7 @@ group_sizes:
 group_needs:
   - slug: energy
     score: 1
-  - slug: identity
+  - slug: groupid
     score: 4
   - slug: first
     score: 4
